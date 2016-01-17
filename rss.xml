@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[The Industry]]></title>
         <description><![CDATA[The Industry]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-industry/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Jan 2016 20:57:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 16 Jan 2016 21:05:13 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-industry/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Time to binge, now what?]]></title>
+            <description><![CDATA[<article><h1>Time to binge, now what?</h1><p>So, your on a spree of avoiding the gym and staying up way past our bedtime. The phrase "ok, one more" is commonplace. Now its time to pick your next binge worth show.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bff436fe-e1d4-44ea-9957-b423c5bc0fd8.jpg"></article>]]></description>
+            <link>https://thegrid.ai/the-industry/time-to-binge-now-what/index.html</link>
+            <guid isPermaLink="false">e294afa8-b6cd-4a8e-9ef7-4053ce76b31d</guid>
+            <pubDate>Sat, 16 Jan 2016 21:04:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b1f7aff5-658f-4290-899a-d7340fc3c7f5.jpg">]]></description>
-            <link>undefined87eda2d0-9b7b-4991-8075-83127d2f998c/index.html</link>
+            <link>https://thegrid.ai/the-industry/87eda2d0-9b7b-4991-8075-83127d2f998c/index.html</link>
             <guid isPermaLink="false">87eda2d0-9b7b-4991-8075-83127d2f998c</guid>
             <pubDate>Sat, 16 Jan 2016 20:54:18 GMT</pubDate>
         </item>
